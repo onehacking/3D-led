@@ -1,5 +1,5 @@
 /*
-  2018年12月7日
+  2018.12
   auther: onehacking
   Lience: MIT
   About: LED顺序，从左至右，第一层顺序为1-2-3，第二层为2-3-4
